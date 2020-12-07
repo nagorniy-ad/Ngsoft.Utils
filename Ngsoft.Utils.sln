@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ngsoft.Utils", "Ngsoft.Utils\Ngsoft.Utils.csproj", "{1CA4B883-309C-45B1-A075-C66A27B4E79F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ngsoft.Utils.Tests", "Ngsoft.Utils.Tests\Ngsoft.Utils.Tests.csproj", "{1BFC4076-6D81-44F6-9878-B15527A2E8DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CA4B883-309C-45B1-A075-C66A27B4E79F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CA4B883-309C-45B1-A075-C66A27B4E79F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CA4B883-309C-45B1-A075-C66A27B4E79F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CA4B883-309C-45B1-A075-C66A27B4E79F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BFC4076-6D81-44F6-9878-B15527A2E8DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BFC4076-6D81-44F6-9878-B15527A2E8DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BFC4076-6D81-44F6-9878-B15527A2E8DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BFC4076-6D81-44F6-9878-B15527A2E8DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {023FB7B4-48ED-450C-B6FB-5ED627C55B58}
+	EndGlobalSection
+EndGlobal
